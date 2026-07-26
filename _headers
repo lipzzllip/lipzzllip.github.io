@@ -1,0 +1,5 @@
+/_next/static/*
+  Cache-Control: public,max-age=31536000,immutable
+
+/zilin-avatar.webp
+  Cache-Control: public,max-age=31536000,immutable
