@@ -1,3 +1,2 @@
-:HL["/_next/static/chunks/3e19cmaw9rukw.css","style"]
-:HL["/zilin-avatar.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"pUwJ00SFQgJAZR6r5BX6y"}
+:HL["/_next/static/chunks/1dadcgwjqihih.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Iu7iauMcJC1cohsrGvc4d"}
